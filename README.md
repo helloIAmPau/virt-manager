@@ -4,12 +4,12 @@ A set of tools I use to handle my home lab KVM architecture
 
 ## Bare Metal Configuration
 
-__CPU:__ Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
-__MEMORY:__ 16GB Corsair + 16GB Kingston HyperX
-__GPU:__ NVIDIA GeForce RTX 2060
-__DISK:__ LVM (500GB Samsung SM981 + 250GB Samsung SM961 + 500GB Samsung evo something)
-__STORAGE:__ 2 * 4TB Raid 1 Hard Drives 
-__OS:__ Ubuntu 24.04.1 LTS
+* __CPU:__ Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
+* __MEMORY:__ 16GB Corsair + 16GB Kingston HyperX
+* __GPU:__ NVIDIA GeForce RTX 2060
+* __DISK:__ LVM (500GB Samsung SM981 + 250GB Samsung SM961 + 500GB Samsung evo something)
+* __STORAGE:__ 2 * 4TB Raid 1 Hard Drives 
+* __OS:__ Ubuntu 24.04.1 LTS
 
 ## Setup
 
